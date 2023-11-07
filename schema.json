@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "bb-action-component",
+    "friendlyName": "Action component",
+    "description": "Do whatever you want when screen is on-loading",
+    "icon": "JourneyAction",
+    "settings": [
+      {
+        "type": "event",
+        "key": "trigger",
+        "label": "On screen load action"
+      }
+    ]
+  }
+}
